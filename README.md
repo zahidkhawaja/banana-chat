@@ -6,8 +6,6 @@ In this example, we are running [Dolly 2.0 12B](https://app.banana.dev/templates
 
 ## Getting Started
 
-## Getting Started
-
 1. Clone this repo.
 
 2. Create a `.env.local` file with `BANANA_API_KEY=your_api_key` and `BANANA_MODEL_KEY=your_model_key`.
@@ -33,8 +31,6 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Banana API Keys
 
 ## Learn More
 
