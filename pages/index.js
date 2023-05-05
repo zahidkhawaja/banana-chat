@@ -150,7 +150,7 @@ export default function Home() {
             </form>
           </div>
           <div className={styles.footer}>
-            <p>Powered by <a href="https://app.banana.dev/templates/bbreton3/dolly-2-12B/2" target="_blank">dolly-2-12B:V2 </a> on <a href="https://github.com/zahidkhawaja/banana-chat" target="_blank">Banana</a>. Code on <a href="https://github.com/zahidkhawaja" target="_blank">GitHub</a>.</p>
+            <p>Powered by <a href="https://app.banana.dev/templates/bbreton3/dolly-2-12B/2" target="_blank">dolly-2-12B:V2 </a> on <a href="https://github.com/zahidkhawaja/banana-chat" target="_blank">Banana</a>. Code on <a href="https://github.com/zahidkhawaja/banana-chat" target="_blank">GitHub</a>.</p>
           </div>
         </div>
       </main>
